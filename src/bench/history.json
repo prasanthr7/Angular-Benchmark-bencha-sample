@@ -1,0 +1,69 @@
+[
+  {
+    "tag": "f4274e38d65dbedb791a67187d0d19548b60c29b",
+    "timestamp": "2019-06-10T18:48:39.763Z",
+    "suites": {
+      "RegExp vs String::indexOf again": {
+        "String::indexOf": {
+          "hz": 501810147.4096953,
+          "cycles": 13,
+          "count": 26410149,
+          "times": {
+            "cycle": 0.052629762742597216,
+            "elapsed": 6.399,
+            "period": 1.992785528873662e-9,
+            "timeStamp": 1560192494259
+          }
+        },
+        "RegExp": {
+          "hz": 14771525.60046478,
+          "cycles": 10,
+          "count": 815166,
+          "times": {
+            "cycle": 0.05518495665568566,
+            "elapsed": 6.273,
+            "period": 6.769781450120057e-8,
+            "timeStamp": 1560192487979
+          }
+        }
+      },
+      "RegExp vs String::indexOf": {
+        "String::indexOf": {
+          "hz": 487853142.0355064,
+          "cycles": 13,
+          "count": 26461965,
+          "times": {
+            "cycle": 0.05424166151639559,
+            "elapsed": 6.308,
+            "period": 2.049797190661978e-9,
+            "timeStamp": 1560192506881
+          }
+        },
+        "RegExp": {
+          "hz": 15409568.822823469,
+          "cycles": 6,
+          "count": 854286,
+          "times": {
+            "cycle": 0.055438669947383425,
+            "elapsed": 6.205,
+            "period": 6.489474244852827e-8,
+            "timeStamp": 1560192500668
+          }
+        }
+      },
+      "My Feature": {
+        "bar()": {
+          "hz": 770767.3647547411,
+          "cycles": 6,
+          "count": 143716,
+          "times": {
+            "cycle": 0.1864583356428571,
+            "elapsed": 6.458,
+            "period": 0.0000012974083306163344,
+            "timeStamp": 1560192513303
+          }
+        }
+      }
+    }
+  }
+]

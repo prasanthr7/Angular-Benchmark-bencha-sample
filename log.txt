@@ -1,0 +1,21 @@
+[36m02 05 2019 10:13:08.363:DEBUG [config]: [39mNo config file specified.
+[36m02 05 2019 10:13:08.367:DEBUG [config]: [39mautoWatch set to false, because of singleRun
+[36m02 05 2019 10:13:08.368:DEBUG [plugin]: [39mLoading karma-* from C:\Users\PRASANTH\AppData\Roaming\npm\node_modules
+[36m02 05 2019 10:13:08.375:DEBUG [web-server]: [39mInstantiating middleware
+[32m02 05 2019 10:13:08.410:INFO [karma]: [39mKarma v1.5.0 server started at http://0.0.0.0:9876/
+[36m02 05 2019 10:14:26.806:DEBUG [karma]: [39mExecution (fired by runner)
+[36m02 05 2019 10:14:31.977:DEBUG [web-server]: [39mserving: C:\Users\PRASANTH\AppData\Roaming\npm\node_modules\karma\static/client.html
+[36m02 05 2019 10:14:32.019:DEBUG [web-server]: [39mserving: C:\Users\PRASANTH\AppData\Roaming\npm\node_modules\karma\static/karma.js
+[36m02 05 2019 10:14:32.084:DEBUG [karma]: [39mA browser has connected on socket hpOhbDdOe0Hbz6rlAAAA
+[36m02 05 2019 10:14:32.085:DEBUG [web-server]: [39mserving: C:\Users\PRASANTH\AppData\Roaming\npm\node_modules\karma\static/favicon.ico
+[32m02 05 2019 10:14:32.111:INFO [Chrome 73.0.3683 (Windows 10 0.0.0)]: [39mConnected on socket hpOhbDdOe0Hbz6rlAAAA with id manual-8613
+[36m02 05 2019 10:14:32.214:DEBUG [middleware:karma]: [39mcustom files null null null
+[36m02 05 2019 10:14:32.214:DEBUG [middleware:karma]: [39mServing static request /context.html
+[36m02 05 2019 10:14:32.216:DEBUG [web-server]: [39mserving: C:\Users\PRASANTH\AppData\Roaming\npm\node_modules\karma\static/context.html
+[36m02 05 2019 10:14:32.233:DEBUG [web-server]: [39mserving: C:\Users\PRASANTH\AppData\Roaming\npm\node_modules\karma\static/context.js
+Chrome 73.0.3683 (Windows 10 0.0.0) ERROR
+  You need to include some adapter that implements __karma__.start method!
+
+
+[36m02 05 2019 10:14:32.268:DEBUG [karma]: [39mRun complete, exiting.
+[36m02 05 2019 10:14:32.269:DEBUG [launcher]: [39mDisconnecting all browsers
